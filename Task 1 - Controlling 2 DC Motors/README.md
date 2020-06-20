@@ -1,5 +1,5 @@
 # Task 1
-Deigning a control system for 2 DC motors with Arduino.
+Designing a control system for two DC motors with Arduino.
 # System Components
 - Arduino Uno RV3
 - 2 x DC motors
