@@ -9,6 +9,6 @@ Designing a control system for two DC motors with Arduino.
 - 9V Battery
 - Wires
 # Used Softwares
-- TinkerCad
+- Tinkercad
 # System Description
 When the first pushbutton is pressed the motors will rotate clockwise and when the second pushbutton is pressed the motors will rotate counter clockwise.
