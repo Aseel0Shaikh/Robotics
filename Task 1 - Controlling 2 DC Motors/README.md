@@ -2,8 +2,8 @@
 Designing a control system for two DC motors with Arduino.
 # System Components
 - Arduino Uno R3
-- 2 x DC motors
-- 2 x Pushbuttons
+- 2 x DC motor
+- 2 x Pushbutton
 - Motor driver L293D
 - Breadboard
 - 9V Battery
