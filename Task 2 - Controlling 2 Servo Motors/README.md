@@ -21,7 +21,7 @@ When the first pushbutton is pressed the motors will rotate 180 degree from the 
 - Breadboard
 - Wires
 # System Description
-When the first pushbutton is pressed the motors will rotate clockwise and when the second pushbutton is pressed the motors will rotate counter clockwise.
+
 
 
 # Used Softwares
