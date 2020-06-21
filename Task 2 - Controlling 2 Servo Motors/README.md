@@ -1,6 +1,7 @@
 # Task 2
 Designing two control systems for two servo motors with Arduino, the first system is for controlling the motor direction and the seconed is for controlling the motors manually.
 
+
 # System 1 - Direction
 # System Components
 - Arduino Uno R3
@@ -10,6 +11,7 @@ Designing two control systems for two servo motors with Arduino, the first syste
 - Wires
 # System Description
 When the first pushbutton is pressed the motors will rotate 180 degree from the current position clockwise and when the second pushbutton is pressed the motors will rotate 180 degree from the current position counter clockwise.
+
 
 # System 2 - Manually
 # System Components
