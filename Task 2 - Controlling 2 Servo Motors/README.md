@@ -20,7 +20,7 @@ When the first pushbutton is pressed the motors will rotate 180 degree from the 
 - Potentiometer
 - Breadboard
 - Wires
-# System Description
+
 
 
 
