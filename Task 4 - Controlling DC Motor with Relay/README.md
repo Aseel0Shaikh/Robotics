@@ -1,6 +1,6 @@
 
 # Task 4
-Designing a system for controlling the rotation dirction of DC motor with Arduino and relay.
+Designing a system for controlling the rotation direction of DC motor with Arduino and relay.
 # System Components
 - Arduino Uno R3
 - DC motor
