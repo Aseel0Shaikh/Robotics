@@ -21,7 +21,8 @@ When the first pushbutton is pressed the motors will rotate 180 degree from the 
 - Breadboard
 - Wires
 
-
+# System Description
+The potentiometer is used for controlling the motors' movement by changing its value which in turns change the angle of movement.
 
 
 # Used Softwares
