@@ -1,12 +1,11 @@
 # Task 5
-Designing a control system for two DC motors with Arduino.
+Designing a control system for a production line for sorting three sizes of boxes
 
 # System Components
 - Arduino Uno R3
 - Servo motor
-- Breadboard
-9V Battery
-Wires
+- 3 x IR sensor
+- Wires
 # Used Softwares
 Tinkercad
 # System Description
